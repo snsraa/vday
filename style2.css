@@ -1,0 +1,70 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+@font-face {
+  font-family: floozy;
+  src: url(../Font/Floozy__.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: angryfont;
+  src: url(../Font/Simbiot.ttf) format('truetype');
+}
+
+h1 {
+  font-family: 'angryfont';
+  text-align: center;
+  font-size: 75px;
+  color: #db0000;
+}
+
+p {
+  font-family: 'Lucida Console', monospace;
+  text-align: center;
+  font-size: 30px;
+  color: #bdbdbd;
+  margin-top: 20px;
+}
+
+body {
+  background-color: #000000;
+  font-family: 'floozy';
+}
+
+.seal {
+  max-width: 350px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+.answerbuttons{
+  text-align: center;
+  word-spacing: 20px;
+}
+
+.links {
+  text-decoration: none;
+  font-size: 45px;
+  font-family: 'floozy';
+  color: #b30000;
+  padding: 10px 20px;
+  border: 2px solid #b30000;
+  border-radius: 5px;
+  background-color: #eac9b3;
+  box-shadow: 0px 5px 0px 0px rgb(97, 97, 97, 0.5); 
+  display: inline-block;
+}
+
+a:hover {
+  color: #8a0000;
+  border: 2px solid #8a0000;
+}
+
+a:active{
+  transform: translateY(5px);
+  box-shadow: 0px 2px 0px 0px rgba(97, 97, 97, 0.5); 
+}
