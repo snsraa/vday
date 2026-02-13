@@ -5,17 +5,17 @@ html {
 
 @font-face {
   font-family: retrogression;
-  src: url(assets/font/Retrogression-Regular.ttf) format('truetype');
+  src: url(assets/Retrogression-Regular.ttf) format('truetype');
 }
 
 @font-face {
   font-family: floozy;
-  src: url(assets/font/Floozy__.ttf) format('truetype');
+  src: url(assets/Floozy__.ttf) format('truetype');
 }
 
 @font-face {
   font-family: angryfont;
-  src: url(assets/font/Simbiot.ttf) format('truetype');
+  src: url(assets/Simbiot.ttf) format('truetype');
 }
 
 h1 {
