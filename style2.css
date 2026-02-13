@@ -5,12 +5,12 @@ html {
 
 @font-face {
   font-family: floozy;
-  src: url(../Font/Floozy__.ttf) format('truetype');
+  src: url(assets/font/Floozy__.ttf) format('truetype');
 }
 
 @font-face {
   font-family: angryfont;
-  src: url(../Font/Simbiot.ttf) format('truetype');
+  src: url(assets/font/Simbiot.ttf) format('truetype');
 }
 
 h1 {
